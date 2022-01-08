@@ -1,0 +1,3 @@
+certifi
+dataclass-json@git+https://github.com/barskykd/py-dataclass-json.git@a49347fc787f7017e2778209a30134541ab8c69c
+requests==2.26.0
